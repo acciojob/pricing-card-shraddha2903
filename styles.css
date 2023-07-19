@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+div{
+	width:400px;
+	height:700px;
+}
+p{
+	margin:justify;
+}
